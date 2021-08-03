@@ -16,7 +16,7 @@
 - 💬 Ask me about Anything!!!
 - 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My GF is also a Programmer 😁!!
+- ⚡ Fun fact: My bestie told me that I am a Robot 😁!!
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better! 💪
 <br>
 
@@ -68,14 +68,14 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ebcc34&icon_color=5ec2d6&text_color=daf7dc&bg_color=151515"> -->
 
-## Connect with me:
+## 🤘 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/p1yu5h/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/p1yu5h0"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/p1yu5h.0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
- 
+<br>
   
   
 ## ❤ Views and Followers
