@@ -1,6 +1,5 @@
 ### <h1>Hola, I am Piyush Agrawal! 👋</h1>
 
-<h3>
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning DSA and Web Development.
 - 👯 I’m looking to collaborate on any opprtunity related to any field.
@@ -9,7 +8,6 @@
 - 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: My GF is also a Programmer 😁!!
-  </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ebcc34&icon_color=5ec2d6&text_color=daf7dc&bg_color=151515">
 
