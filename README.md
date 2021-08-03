@@ -1,4 +1,4 @@
-### <h2>Hola, I am Piyush Agrawal! 👋</h2>
+### <h1>Hola, I am Piyush Agrawal! 👋</h1>
 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning DSA and Web Development.
