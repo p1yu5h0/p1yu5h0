@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola, I am Piyush Agrawal! 👋
+
+- 🔭 I’m currently working on a Personal Project.
+- 🌱 I’m currently learning DSA and Web Development.
+- 👯 I’m looking to collaborate on any opprtunity related to any field.
+- 🤔 I’m looking for help with Web Development.
+- 💬 Ask me about Anything!!!
+- 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: My GF is also a Programmer 😁!!
+
+<img src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **p1yu5h0/p1yu5h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
