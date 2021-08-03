@@ -1,6 +1,7 @@
-### <h1>Hola, I am Piyush Agrawal! 👋</h1>
+### <h1>Hey👋, I'm Piyush! 🤖</h1>
 
-About Me 🤠:-
+### About Me 🤠:-
+
 - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning DSA and Web Development.
@@ -10,6 +11,9 @@ About Me 🤠:-
 - 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: My GF is also a Programmer 😁!!
+- 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better! 💪
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ebcc34&icon_color=5ec2d6&text_color=daf7dc&bg_color=151515">
 
