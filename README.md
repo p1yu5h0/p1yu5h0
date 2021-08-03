@@ -1,5 +1,7 @@
 ### <h1>Hola, I am Piyush Agrawal! 👋</h1>
 
+<h2>About Me 🤠</h2>
+- 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning DSA and Web Development.
 - 👯 I’m looking to collaborate on any opprtunity related to any field.
