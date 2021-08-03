@@ -3,21 +3,21 @@
 ### <h1>Hey👋, I'm Piyush! 🤖</h1>
 
 
-### About Me 🤠:-
+## 👨‍🎓 About Me :
 
 
-- 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉 
+- 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉.
 
-- 🔭 I’m currently working on a Personal Project.
+- 🔭 I’m currently working on a Personal Project👨‍🏭.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🤔 I’m looking for help with Web Development.
-- 💬 Ask me about Anything!!!
+- 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
+- 👯 I’m looking to collaborate on **OpenSource Projects**📜.
+- 🤔 I’m looking for help with Web Development🌏.
+- 💬 Ask me about Anything💭!!!
 - 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My bestie told me that I am a Robot 😁!!
-- 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better! 💪
+- 😄 Pronouns: He/Him👦.
+- ⚡ Fun fact: My bestie💓 told me that I am a Robot 😁!!
+- 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
 ## 🚀 Languages and Tools:
