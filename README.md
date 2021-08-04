@@ -10,11 +10,14 @@
 
 - 🔭 I’m currently working on a Personal Project👨‍🏭.
 
+- 💻 I love to do Competitive Programming on daily basis 🤓. <br>
+    Now I am 3🌟at CodeChef(max. 1780) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
 - 🤔 I’m looking for help with Web Development🌏.
 - 💬 Ask me about Anything💭!!!
-- 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com)
+- 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com).
 - 😄 Pronouns: He/Him👦.
 - ⚡ Fun fact: My bestie💓 told me that I am a Robot 😁!!
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
