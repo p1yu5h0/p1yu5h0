@@ -19,7 +19,7 @@
 - 💬 Ask me about Anything💭!!!
 - 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com).
 - 😄 Pronouns: He/Him👦.
-- ⚡ Fun fact: My bestie💓 told me that I am a Robot 😁!!
+- ⚡ Fun fact: My bestie💓 told me that I am a Robot 😁!! (ps. I had a breakup now ;) 😎🥳
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
