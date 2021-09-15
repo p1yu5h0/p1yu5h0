@@ -59,15 +59,21 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ebcc34&icon_color=5ec2d6&text_color=daf7dc&bg_color=151515" /></a>
-<!--   <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h028&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&theme=onedark&layout=compact" /></a>
+        <br><br><br>
+<!--   <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+        
+<a href="https://github.com/p1yu5h0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&theme=onedark&layout=compact"  height ="175px"  />
+</a>
+        
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 
 <br/>
-<br/>
+<!-- <br/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&show_icons=true&title_color=ebcc34&icon_color=5ec2d6&text_color=daf7dc&bg_color=151515"> -->
 
@@ -79,7 +85,7 @@
 <a href = "https://www.instagram.com/p1yu5h.0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <br>
-  
+  <br><br>
   
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
