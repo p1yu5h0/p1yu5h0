@@ -12,6 +12,9 @@
 
 - 🔭 I’m currently working on a Personal Project👨‍🏭.
 
+- 🤠 Also it's my starting so I am doing those projects that are already made so that I can learn what is the mindset of a person in making those projects 💭🤔.
+- 😁 This will help me in building basic skills like thinking and debugging 🥳.
+
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
     Now I am 3🌟at CodeChef(max. 1780) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
 
