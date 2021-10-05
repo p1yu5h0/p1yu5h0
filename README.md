@@ -1,32 +1,33 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="160px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="160px"/></a> -->
 <br>
 <br>
-### <h1 align="center">Hey👋,𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Piyush!!! 🤖</h1>
+<!-- ### <h1 align="center">Hey👋,𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! I am Piyush!!! 🤖</h1> -->
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Piyush Agrawal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+<p align="center"> 
+    
+  Visitors count
+    <br>
+  <img src="https://profile-counter.glitch.me/p1yu5h0/count.svg" />
+</p>
 
 
 <br>
-
+<br>
 ## 👨‍🎓 About Me :
 
 
 - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉.
 
-- 🔭 I’m currently working on a Personal Project👨‍🏭.
-
-- 🤠 Also it's my starting so I am doing those projects that are already made so that I can learn what is the mindset of a person in making those projects 💭🤔.
-- 😁 This will help me in building basic skills like thinking and debugging 🥳.
-
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
     Now I am 3🌟at CodeChef(max. 1780) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 🤔 I’m looking for help with Web Development🌏.
-- 💬 Ask me about Anything💭!!!
-- 📫 How to reach me: [LinkedIn-@p1yu5h](https://www.linkedin.com/in/p1yu5h/), [Twitter-@p1yu5h0](https://twitter.com/p1yu5h0), [Gmail-@piyush200205](piyush200205@gmail.com).
-- 😄 Pronouns: He/Him👦.
-- ⚡ Fun fact: My bestie💓 told me that I am a Robot 😁!! (ps. I had a breakup now ;) 😎🥳
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
@@ -92,14 +93,19 @@
 <a href = "https://www.instagram.com/p1yu5h.0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <br>
-  <br><br>
+  <br>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+    <br>
   
+    
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=p1yu5h0">
 </a>
 <a href="https://github.com/p1yu5h0?tab=followers"><img src="https://img.shields.io/github/followers/p1yu5h0?label=Followers&style=social" alt="GitHub Badge"></a>
   
+
+        
 <!--
 **p1yu5h0/p1yu5h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
