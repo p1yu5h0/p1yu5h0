@@ -107,6 +107,10 @@
 <a href="https://github.com/p1yu5h0?tab=followers"><img src="https://img.shields.io/github/followers/p1yu5h0?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
+ <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>  
+    
+ <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
+  
         
 <!--
 **p1yu5h0/p1yu5h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
