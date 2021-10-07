@@ -20,6 +20,7 @@
 
 <br>
 <br>
+
 ## 👨‍🎓 About Me :
 
 
@@ -62,19 +63,19 @@
 
 <p align="center">
     <a href="https://github.com/p1yu5h0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush Agrawal's streak" src="http://github-readme-streak-stats.herokuapp.com?user=p1yu5h0&theme=dark&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush Agrawal's streak" src="http://github-readme-streak-stats.herokuapp.com?user=p1yu5h0&theme=jolly&hide_border=false"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&theme=onedark&layout=compact" /></a>
+    <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=p1yu5h0&&theme=jolly&layout=compact" /></a>
         <br><br><br>
 <!--   <a href="https://github.com/p1yu5h0/github-readme-stats"><img alt="Piyush Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
         
 <a href="https://github.com/p1yu5h0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&theme=onedark&layout=compact"  height ="175px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1yu5h0&theme=jolly&layout=compact"  height ="175px"  />
 </a>
         
   <br/>
@@ -111,6 +112,12 @@
     
  <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
   
+ <br>
+        
+  <img src="https://github.com/p1yu5h0/p1yu5h0/blob/main/root/SkyLine%20GitHub.gif"/>
+
+        
+        
         
 <!--
 **p1yu5h0/p1yu5h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
