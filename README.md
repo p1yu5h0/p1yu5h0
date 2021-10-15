@@ -110,9 +110,12 @@
 
  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>  
     
- <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
+ <h3 align="center">Show some :heart: by starring some of my repositories and gists! </h3> 
   
  <br>
+
+
+
         
   <img src="https://github.com/p1yu5h0/p1yu5h0/blob/main/root/SkyLine%20GitHub.gif"/>
 
