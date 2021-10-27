@@ -117,7 +117,7 @@
 
 
         
-  <img src="https://github.com/p1yu5h0/p1yu5h0/blob/main/root/SkyLine%20GitHub.gif"/>
+<!--   <img src="https://github.com/p1yu5h0/p1yu5h0/blob/main/root/SkyLine%20GitHub.gif"/> -->
 
         
         
