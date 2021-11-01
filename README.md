@@ -95,6 +95,9 @@
 <a href = "https://twitter.com/p1yu5h0"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/p1yu5h.0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://codeforces.com/profile/p1yu5h"><img src="https://img.icons8.com/ios/50/000000/code.png"/></a>
+<a href = "https://www.codechef.com/users/p1yu5h0"><img src="https://img.icons8.com/ios/50/000000/code.png"/></a>
+<!-- <a href = "https://leetcode.com/p1yu5h0/"><img src="https://leetcode.com/static/images/LeetCode_logo.png"/></a> -->
 <br>
   <br>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> 😊</em>
