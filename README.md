@@ -25,7 +25,7 @@
 - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉.
 
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
-    Now I am 3🌟at CodeChef(max. 1780) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
+    Now I am 4🌟at CodeChef(max. 1812) and Pupil at CodeForces(max 1245) and consistently trying hard to improve my rating😋.
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
