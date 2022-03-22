@@ -88,7 +88,7 @@
 <a href = "https://twitter.com/p1yu5h0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" height="40" width="40"/></a>
 <a href = "https://www.instagram.com/p1yu5h.0/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40" width="40"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" width="40"/></a>
-<a href="https://codeforces.com/profile/p1yu5h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="p1yu5h" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/agrawalpiyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="p1yu5h" height="40" width="40" /></a>
 <a href = "https://www.codechef.com/users/p1yu5h0" target="blank"><img src="https://cdn.codechef.com/images/cc-logo-sd.svg" align="center" height="40" width="70"/></a>
 <a href="https://dev.to/p1yu5h0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p1yu5h0" height="40" width="40" /></a>
 <a href = "https://leetcode.com/p1yu5h0/" target="blank"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="40" width="70" align="center"/></a>
