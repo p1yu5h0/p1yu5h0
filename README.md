@@ -1,8 +1,9 @@
 
 <br>
 <h1 align="center">नमस्ते 🙏🏻, I'm Piyush Agrawal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> -->
 <p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -22,10 +23,10 @@
 ## 👨‍🎓 About Me :
 
 
-- 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉.
+<!-- - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉. -->
 
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
-    Now I am 4🌟at CodeChef(max. 1812) and Specialist at CodeForces(max 1439) and consistently trying hard to improve my rating😋.
+    Specialist at CodeForces(max 1439) and consistently trying hard to improve my rating😋.
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
@@ -43,7 +44,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<!--     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -77,7 +78,7 @@
         
 <br/>
 <br>
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=p1yu5h0&theme=jolly&hide_border=false&area=false" alt="piyush" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=p1yu5h0&theme=jolly&hide_border=false&area=false" alt="piyush" /></p> -->
 
 <br/>
 
