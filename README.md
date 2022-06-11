@@ -81,6 +81,10 @@
 <!-- <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=p1yu5h0&theme=jolly&hide_border=false&area=false" alt="piyush" /></p> -->
 
 <br/>
+        
+## 💻 My Codeforces Stats
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=agrawalpiyush&theme=0)
 
 ## 🤘 Connect with me:
 <p align="left">
