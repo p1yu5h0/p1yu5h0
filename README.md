@@ -9,6 +9,11 @@
 <p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<br>
+
+<p align="left"> <a href="https://twitter.com/p1yu5h0" target="blank"><img src="https://img.shields.io/twitter/follow/p1yu5h0?logo=twitter&style=for-the-badge" alt="p1yu5h0" /></a> </p>
+
+
 <p align="center"> 
     
   Visitors count
@@ -17,7 +22,6 @@
 </p>
 
 
-<br>
 <br>
 
 ## 👨‍🎓 About Me :
