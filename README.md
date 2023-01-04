@@ -30,7 +30,7 @@
 <!-- - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉. -->
 
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
-    Specialist at CodeForces(max 1590) and consistently trying hard to improve my rating😋.
+    Expert at CodeForces(max 1633) and consistently trying hard to improve my rating😋.
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
