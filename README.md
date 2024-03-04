@@ -1,12 +1,10 @@
 
 <br>
-<h1 align="center">नमस्ते 🙏🏻, I'm Piyush Agrawal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">hi, I'm Piyush! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<!-- <p><em>Aiming to become a Software Engineer at <a href="http://www.google.com">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
-<p><em>Striving to become a good Software Development Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>Striving to become a good Software Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br>
@@ -15,11 +13,6 @@
 
 
 <p align="center"> 
-    
-  Visitors count
-<br>
-<img src="https://profile-counter.glitch.me/p1yu5h0/count.svg" />
-</p>
 
 
 <br>
@@ -30,10 +23,10 @@
 <!-- - 😎 Everything I do is 100% automation, which means I'm just doing it LIVE 😉. -->
 
 - 💻 I love to do Competitive Programming on daily basis 🤓. <br>
-    Expert at CodeForces(max 1633) and consistently trying hard to improve my rating😋.
+    Expert at CodeForces(max 1726) and consistently trying hard to improve my rating😋.
 - 🌱 I’m currently learning **Data Structures and Algorithms**🧑‍💻.
 - 👯 I’m looking to collaborate on **OpenSource Projects**📜.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
+- 📫 How to reach me: [Portfolio](https://app.pyuss.tech) [LinkedIn](https://www.linkedin.com/in/p1yu5h/), [Twitter](https://twitter.com/p1yu5h0), [Gmail](piyush200205@gmail.com).
 - 🏫 Find me in IET DAVV Indore, collaborating with future developers to become better🔥!! 💪
 <br>
 
@@ -85,10 +78,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=p1yu5h0&theme=jolly&hide_border=false&area=false" alt="piyush" /></p> -->
 
 <br/>
-        
-## 💻 My Codeforces Stats
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=agrawalpiyush&theme=0)
 
 ## 🤘 Connect with me:
 <p align="left">
@@ -97,9 +86,7 @@
 <a href = "https://twitter.com/p1yu5h0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" height="40" width="40"/></a>
 <a href = "https://www.instagram.com/p1yu5h.0/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40" width="40"/></a>
 <a href = "https://www.youtube.com/channel/UCu4XWded10bmst_mvTD0HHg" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" width="40"/></a>
-<a href="https://codeforces.com/profile/agrawalpiyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="p1yu5h" height="40" width="40" /></a>
-<a href = "https://www.codechef.com/users/p1yu5h0" target="blank"><img src="https://cdn.codechef.com/images/cc-logo-sd.svg" align="center" height="40" width="70"/></a>
-<a href="https://dev.to/p1yu5h0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p1yu5h0" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/pyuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="p1yu5h" height="40" width="40" /></a>
 <a href = "https://leetcode.com/p1yu5h0/" target="blank"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="40" width="70" align="center"/></a>
 <br>
 
